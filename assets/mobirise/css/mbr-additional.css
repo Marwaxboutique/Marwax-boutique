@@ -886,6 +886,7 @@ section.lazy-placeholder:after {
   padding-top: 1.4rem;
   padding-bottom: 1.4rem;
   text-align: left;
+  border-radius: 20px;
 }
 .cid-sZAwotOACV .dropdown .dropdown-menu .dropdown-item {
   width: auto;
@@ -1178,7 +1179,7 @@ section.lazy-placeholder:after {
 }
 .cid-sZAwotOACV .nav-link:hover,
 .cid-sZAwotOACV .dropdown-item:hover {
-  color: #ff7a0e !important;
+  color: #fae4d2 !important;
 }
 .cid-sZNk9Ai5xV {
   padding-top: 45px;
@@ -1797,12 +1798,12 @@ section.lazy-placeholder:after {
 }
 .cid-sZAwotOACV .nav-link:hover,
 .cid-sZAwotOACV .dropdown-item:hover {
-  color: #ff7a0e !important;
+  color: #fae4d2 !important;
 }
 .cid-sZRT5aJlm7 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #000000;
+  background-color: #efefef;
 }
 .cid-sZRT5aJlm7 .card-box {
   padding: 0 2rem;
@@ -2329,7 +2330,7 @@ section.lazy-placeholder:after {
 }
 .cid-sZAwotOACV .nav-link:hover,
 .cid-sZAwotOACV .dropdown-item:hover {
-  color: #ff7a0e !important;
+  color: #fae4d2 !important;
 }
 .cid-sZTGDbwIaY {
   padding-top: 0px;
