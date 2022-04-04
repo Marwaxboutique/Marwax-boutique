@@ -727,6 +727,10 @@ section.lazy-placeholder:after {
 .cid-sZMBmGCxca img:hover {
   box-shadow: 0 0 40px orange;
 }
+.cid-sZMBmGCxca .letre {
+  margin-top: 2000px;
+  font-size: 100px;
+}
 .cid-sZMBmGCxca .mySlides {
   display: none;
 }
@@ -785,6 +789,7 @@ section.lazy-placeholder:after {
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
+  box-shadow: 2px 2px 2px #ffffff;
 }
 .cid-sZAwotOACV .navbar-dropdown.bg-color.transparent.opened {
   background: #000000;
@@ -887,6 +892,7 @@ section.lazy-placeholder:after {
   padding-bottom: 1.4rem;
   text-align: left;
   border-radius: 20px;
+  border: solid white;
 }
 .cid-sZAwotOACV .dropdown .dropdown-menu .dropdown-item {
   width: auto;
